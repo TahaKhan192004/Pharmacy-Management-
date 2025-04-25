@@ -1,0 +1,24 @@
+﻿@{
+    Layout = "_Layout";
+}
+@model List<Pharmacy.Models.PharmacyItem>
+
+<h1>Search Results</h1>
+<div class="container py-5">
+    <div class="row g-4 justify-content-center">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4">
+                <div class="card service-card">
+                    <img src="@item.image" class="card-img-top" alt="@item.Name">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">@item.Name</h5>
+                        <p class="card-text">ID: @item.Id</p>
+                        <p class="card-text">Price: @item.price</p>
+                        <p class="card-text">@item.Description</p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

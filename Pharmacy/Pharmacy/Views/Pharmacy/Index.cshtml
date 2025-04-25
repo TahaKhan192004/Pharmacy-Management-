@@ -1,0 +1,35 @@
+﻿@{
+    Layout = "_Layout";
+}
+@model List<Pharmacy.Models.PharmacyItem>
+
+<div class="container mt-4">
+    <h1>Search Here </h1>
+    <form class="form-inline my-2 my-lg-0" method="post" action="/Pharmacy/Index">
+        <input class="form-control mr-sm-2 mb-2" type="search" name="search" placeholder="Search by name or category" aria-label="Search">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
+</div>
+
+
+<h1>Pharmacy Items</h1>
+<div class="container py-5">
+    <div class="row g-4 justify-content-center">
+
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4">
+                <div class="card service-card">
+                    <img src="@item.image" class="card-img-top" alt="@item.Name" height="200" width="300">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">@item.Name</h5>
+                        <p class="card-text">ID: @item.Category</p>
+                        <p class="card-text">Price: @item.price</p>
+                        <p class="card-text">@item.quantity</p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+<a href="/Pharmacy/Create">Add New Item</a>

@@ -1,0 +1,25 @@
+﻿@{
+    Layout = "_Layout";
+}
+@{
+    ViewData["Title"] = "Details";
+    var data = ViewBag.x;
+}
+
+<div class="container py-5">
+    <h2 class="text-center mb-4">Pharmacy Item Details</h2>
+    <form asp-action="Details" asp-controller="Pharmacy" method="post">
+        <div class="row mb-4">
+            <div class="col-md-6 mx-auto">
+                <input type="number" name="id" class="form-control" placeholder="Enter Item ID" required>
+            </div>
+        </div>
+        <div class="text-center">
+            <button type="submit" class="btn btn-primary">Get Details</button>
+        </div>
+    </form>
+
+    <div id="detailsResult" class="row justify-content-center mt-4">
+        <partial name="_IndividualItemPR" model="data" />
+    </div>
+</div>

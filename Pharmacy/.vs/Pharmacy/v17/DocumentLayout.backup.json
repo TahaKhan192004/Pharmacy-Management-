@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|c:\\users\\dell\\source\\repos\\pharmacy\\pharmacy\\controllers\\pharmacycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\controllers\\pharmacycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|c:\\users\\dell\\source\\repos\\pharmacy\\pharmacy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|c:\\users\\dell\\source\\repos\\pharmacy\\pharmacy\\models\\pharmacyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\models\\pharmacyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|c:\\users\\dell\\source\\repos\\pharmacy\\pharmacy\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|c:\\users\\dell\\source\\repos\\pharmacy\\pharmacy\\models\\repository\\pharmacyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\models\\repository\\pharmacyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|c:\\users\\dell\\source\\repos\\pharmacy\\pharmacy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|c:\\users\\dell\\source\\repos\\pharmacy\\pharmacy\\views\\shared\\_searchresultpr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\views\\shared\\_searchresultpr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|c:\\users\\dell\\source\\repos\\pharmacy\\pharmacy\\views\\shared\\_individualitempr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\views\\shared\\_individualitempr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|c:\\users\\dell\\source\\repos\\pharmacy\\pharmacy\\views\\pharmacy\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\views\\pharmacy\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|c:\\users\\dell\\source\\repos\\pharmacy\\pharmacy\\views\\pharmacy\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\views\\pharmacy\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|c:\\users\\dell\\source\\repos\\pharmacy\\pharmacy\\views\\pharmacy\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\views\\pharmacy\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|c:\\users\\dell\\source\\repos\\pharmacy\\pharmacy\\models\\interface\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\models\\interface\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|c:\\users\\dell\\source\\repos\\pharmacy\\pharmacy\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|c:\\users\\dell\\source\\repos\\pharmacy\\pharmacy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D334DF2-C29B-4665-9C3F-EB4D827322F7}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PharmacyItem.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Models\\PharmacyItem.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Models\\PharmacyItem.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Models\\PharmacyItem.cs",
+              "RelativeToolTip": "Pharmacy\\Models\\PharmacyItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:04:47.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Pharmacy\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:32:17.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PharmacyController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Controllers\\PharmacyController.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Controllers\\PharmacyController.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Controllers\\PharmacyController.cs",
+              "RelativeToolTip": "Pharmacy\\Controllers\\PharmacyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:04:49.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Pharmacy\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:04:44.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pharmacy\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pharmacy\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAIBZwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T15:48:12.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Models\\Interface\\Interface.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Models\\Interface\\Interface.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Models\\Interface\\Interface.cs",
+              "RelativeToolTip": "Pharmacy\\Models\\Interface\\Interface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:20:52.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PharmacyService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Models\\Repository\\PharmacyService.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Models\\Repository\\PharmacyService.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Models\\Repository\\PharmacyService.cs",
+              "RelativeToolTip": "Pharmacy\\Models\\Repository\\PharmacyService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAIBZwBkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:04:56.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_SearchResultPR.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Views\\Shared\\_SearchResultPR.cshtml",
+              "RelativeDocumentMoniker": "Pharmacy\\Views\\Shared\\_SearchResultPR.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Views\\Shared\\_SearchResultPR.cshtml",
+              "RelativeToolTip": "Pharmacy\\Views\\Shared\\_SearchResultPR.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T13:40:37.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_IndividualItemPR.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Views\\Shared\\_IndividualItemPR.cshtml",
+              "RelativeDocumentMoniker": "Pharmacy\\Views\\Shared\\_IndividualItemPR.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Views\\Shared\\_IndividualItemPR.cshtml",
+              "RelativeToolTip": "Pharmacy\\Views\\Shared\\_IndividualItemPR.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAEBVwA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:52:18.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Views\\Pharmacy\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pharmacy\\Views\\Pharmacy\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Views\\Pharmacy\\Index.cshtml",
+              "RelativeToolTip": "Pharmacy\\Views\\Pharmacy\\Index.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T16:34:24.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Views\\Pharmacy\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pharmacy\\Views\\Pharmacy\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Views\\Pharmacy\\Details.cshtml",
+              "RelativeToolTip": "Pharmacy\\Views\\Pharmacy\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T16:55:09.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Views\\Pharmacy\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pharmacy\\Views\\Pharmacy\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Views\\Pharmacy\\Create.cshtml",
+              "RelativeToolTip": "Pharmacy\\Views\\Pharmacy\\Create.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAIBZwDMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T16:50:27.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Pharmacy\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Pharmacy\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T13:36:31.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Program.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\Pharmacy\\Pharmacy\\Program.cs",
+              "RelativeToolTip": "Pharmacy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:17:38.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
